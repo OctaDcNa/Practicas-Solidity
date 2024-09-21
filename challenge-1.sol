@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.26;
 
-contract Ownable {
+contract challenge_1 {
     address public immutable owner;
 
     event pago(address indexed from, uint256 amount);
